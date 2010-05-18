@@ -2,8 +2,8 @@
 
 ==browse==
 
-  * http://gitorious.org/picogen/picogen/trees/master
   * http://git.savannah.gnu.org/cgit/picogen.git
+  * http://gitorious.org/picogen/picogen/trees/master
 
 ==clone==
 
