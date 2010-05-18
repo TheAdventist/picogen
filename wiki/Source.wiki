@@ -1,13 +1,11 @@
-#summary One-sentence summary of this page.
+#summary Short instructions on viewing/obtaining the sourcecode.
 
-= Introduction =
+==browse==
 
-Add your content here.
+  * http://gitorious.org/picogen/picogen/trees/master
+  * http://git.savannah.gnu.org/cgit/picogen.git
 
+==clone==
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * *origin:* {{{git clone git://git.savannah.nongnu.org/picogen.git}}}
+  * *mirror0:* {{{git clone git://gitorious.org/picogen/picogen.git}}}
